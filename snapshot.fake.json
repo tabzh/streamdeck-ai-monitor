@@ -15,35 +15,35 @@
         "terminal_id": "t1", "pane_id": "pane1", "tab_id": "tab1", "workspace_id": "ws1",
         "agent_status": "working", "focused": false, "revision": 12,
         "agent": "claude", "display_agent": "Claude Code", "name": "Claude-Login",
-        "title": "umx 登录回归修复", "cwd": "/Users/tabzhang/umx",
+        "title": "登录回归修复", "cwd": "/Users/example/projects/app",
         "tokens": {"total": "48.2k"}, "interactive_ready": false, "launch_pending": false
       },
       {
         "terminal_id": "t2", "pane_id": "pane2", "tab_id": "tab1", "workspace_id": "ws1",
         "agent_status": "blocked", "focused": true, "revision": 30,
         "agent": "codex", "display_agent": "Codex", "name": "Codex-Pay",
-        "title": "支付链路重构", "cwd": "/Users/tabzhang/umx",
+        "title": "支付链路重构", "cwd": "/Users/example/projects/app",
         "tokens": {"total": "12.7k"}, "interactive_ready": true, "launch_pending": false
       },
       {
         "terminal_id": "t3", "pane_id": "pane3", "tab_id": "tab1", "workspace_id": "ws1",
         "agent_status": "working", "focused": false, "revision": 7,
         "agent": "kimi", "display_agent": "Kimi Code", "name": "Kimi-Explore",
-        "title": "自由探索测试-Feed流", "cwd": "/Users/tabzhang/umx",
+        "title": "自由探索测试", "cwd": "/Users/example/projects/app",
         "tokens": {"total": "31.0k"}, "interactive_ready": false, "launch_pending": false
       },
       {
         "terminal_id": "t4", "pane_id": "pane4", "tab_id": "tab1", "workspace_id": "ws1",
         "agent_status": "done", "focused": false, "revision": 55,
         "agent": "aider", "display_agent": "Aider", "name": "Aider-Docs",
-        "title": "README 更新", "cwd": "/Users/tabzhang/notes",
+        "title": "文档更新", "cwd": "/Users/example/projects/docs",
         "tokens": {}, "interactive_ready": false, "launch_pending": false
       },
       {
         "terminal_id": "t5", "pane_id": "pane5", "tab_id": "tab1", "workspace_id": "ws1",
         "agent_status": "idle", "focused": false, "revision": 1,
         "agent": null, "display_agent": null, "name": "shell",
-        "title": "", "cwd": "/Users/tabzhang",
+        "title": "", "cwd": "/Users/example",
         "tokens": {}, "interactive_ready": false, "launch_pending": false
       }
     ]
