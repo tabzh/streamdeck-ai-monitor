@@ -1,0 +1,20 @@
+# Runtime state and logs
+state.json
+logs/*.log
+logs/*.err
+
+# Generated preview tiles
+tiles/*.png
+
+# Local Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
+
+# Local/build artifacts and bundled native binaries
+dist/
+lib/*.dylib
+

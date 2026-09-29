@@ -1,0 +1,13 @@
+{
+  "source": "herdr",
+  "updated_at": "2026-09-28T20:30:00",
+  "agents": [
+    {"id": "a1", "name": "E2E-Login", "task": "umx 登录回归", "status": "running", "progress": 62, "eta": "3m"},
+    {"id": "a2", "name": "E2E-Pay", "task": "支付链路巡检", "status": "running", "progress": 21, "eta": "12m"},
+    {"id": "a3", "name": "Explore-X", "task": "自由探索测试", "status": "waiting", "progress": 88, "note": "待审批: 提单"},
+    {"id": "a4", "name": "Monkey-01", "task": "稳定性压测", "status": "failed", "progress": 45, "note": "ANR @ Feed"},
+    {"id": "a5", "name": "ReportBot", "task": "日报生成", "status": "done", "progress": 100},
+    {"id": "a6", "name": "Perf-Watch", "task": "启动耗时监控", "status": "running", "progress": 77, "eta": "5m"},
+    {"id": "a7", "name": "Idle-01", "task": "", "status": "idle", "progress": 0}
+  ]
+}
